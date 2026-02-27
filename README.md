@@ -1,5 +1,6 @@
 # 💫 About Me:
 Computer Programming Student at George Brown College | Building Real-World Web Projects | IT Support & Customer Service | Technical Troubleshooting
+
 "Optimizing life with functions nobody asked for."
 
 
